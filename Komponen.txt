@@ -1,0 +1,13 @@
+★☆★ The necessary components ★☆★
+
+– The PCB that we’ve order it from JLCPCB
+– Arduino Nano
+– 12 Servo motors
+– HC-05 or HC-06 Bluetooth module
+– One OLED Display screen
+– 5mm RGB LEDs
+– Some header connetcors
+- bracket servo
+- kabel
+- dupont
+- skun sambungan
